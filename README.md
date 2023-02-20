@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SonikeDev
-- 👀 I’m interested in ... Chess and HTML
+- 👀 I’m interested in ... HTML & CSS
 - 🌱 I’m currently learning ... JavaScript
 
 <!---
